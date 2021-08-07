@@ -1,3 +1,3 @@
-# Em-Texter
-A simple Android App to socialize with people!
+# Meme Share
+Android application to share trending memes!
 
